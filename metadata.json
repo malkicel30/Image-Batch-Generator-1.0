@@ -1,0 +1,5 @@
+{
+  "name": " Image Batch Generator 1.0",
+  "description": "A web application to generate a batch of images from a list of prompts in a text file using the Gemini API. Users can upload a file, see the generation progress, and download the resulting images.",
+  "requestFramePermissions": []
+}
